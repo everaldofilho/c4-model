@@ -16,5 +16,3 @@ jobs:
 
       - name: C4Builder
         uses: clippings/c4builder-action@v1
-        with:
-          config_path: 'doc/architecture'
